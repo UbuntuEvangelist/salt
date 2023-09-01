@@ -1,4 +1,4 @@
-GitPython==0.3.2.RC1
+GitPython==3.1.33.RC1
 halite
 -r ../../../requirements/opt.txt
 -r ../../../requirements/cloud.txt
