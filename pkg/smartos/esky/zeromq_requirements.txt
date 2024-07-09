@@ -5,3 +5,4 @@ M2Crypto
 pycrypto
 pyzmq == 13.1.0
 -r requirements.txt
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
